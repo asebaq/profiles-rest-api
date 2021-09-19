@@ -152,3 +152,4 @@ cython_debug/
 *.box
 
 # End of https://www.toptal.com/developers/gitignore/api/python,vagrant
+/deploy.zip
